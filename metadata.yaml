@@ -1,5 +1,8 @@
 _repo: The-Roll-Call_12654
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -15,6 +18,8 @@ description: Published in 1918, the fourth and last book of the Clayhanger serie
   The Roll-Call , follows the young life of George, Edwin Clayhanger's stepson who
   becomes the architect his stepfather had wished to be. Unabashedly confident, George
   mounts the social ladder and in the end, we find him enlisting for active service.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12654#The-Roll-Call
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
